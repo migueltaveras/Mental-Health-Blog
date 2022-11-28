@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}
+b {
+  text-align: right;
+  color:grey ;
+  text-align: center;
+}
+body {
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/08/Background-Wallpaper-Images-Desktop.jpg");
+    background-repeat: no-repeat);
+  background-attachment: fixed;
+  background-position: center;
+}
+h1{
+    font-family: "font-effect-shadow-multiple"
+; font-size: 75px;
+  text-shadow: 4px 4px 4px #aaa;
+  color: white;
+}
+p { font-size: 20px;
+  color: white;
+   font-family: "Arial";
+   
+ 
